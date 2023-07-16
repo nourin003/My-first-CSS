@@ -1,0 +1,36 @@
+.header{
+    height: 300px;
+   /* background-image:url('biral.jpg') ;*/
+   /*background-image: url('../nature.jpg');*/
+   background-image: url('../Wallpaper/cherry\ flower.jpg');
+    background-repeat: no-repeat;
+    /*background-repeat:repeat-x;*/
+   /* background-position:middle;*/
+   /* background-size: cover;*/
+   background-size: 500px;
+}
+
+
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+#best{
+    color:white;
+}
+.second {
+  /*  display: none;*/
+  /*visibility: hidden;*/
+}
+.blog{
+    margin: 2px;
+    border: 5px solid red;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+.adipisicing{
+    border:2px solid red;
+    display: block;
+    height: 200px;
+}
